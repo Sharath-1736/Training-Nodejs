@@ -41,5 +41,6 @@ const getStudentById = (req, res) => {
 // Export the functions so the routes file can call them
 module.exports = {
     getAllStudents,
-    createStudent
+    createStudent,
+    getStudentById
 }
