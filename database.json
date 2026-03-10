@@ -1,0 +1,44 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "age": 20,
+      "dob": "2004-01-15",
+      "college": "ATM",
+      "courses": "DATA SCIENCE"
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "age": 22,
+      "dob": "2002-05-20",
+      "college": "ATM",
+      "courses": "AIML"
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "age": 21,
+      "dob": "2003-03-10",
+      "college": "ATM",
+      "courses": "CSE"
+    },
+    {
+      "id": 4,
+      "name": "Cody",
+      "age": 24,
+      "dob": "2003-03-10",
+      "college": "ATME",
+      "courses": "CyberSecurity"
+    },
+    {
+      "id": 5,
+      "name": "raya",
+      "age": 22,
+      "dob": "2006-06-10",
+      "college": "ATME",
+      "courses": "E&C"
+    }
+  ]
+}
