@@ -57,7 +57,7 @@ const deleteStudent = (req, res) => {
 
     if (data.students.length < initialLength) {
         writeData(data);
-        res.json({ message: `Student ${id} deleted forever!` });
+        res.json({ message: `Student ${id} deleted` });
     } else {
         res.status(404).json({ message: "Student not found" });
     }

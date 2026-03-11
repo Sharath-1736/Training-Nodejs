@@ -1,7 +1,6 @@
 const express = require('express'); // Import the Express framework
 const app = express(); // Initialize the Express application
 
-// Middleware to parse incoming JSON data from request bodies
 app.use(express.json()); 
 
 // Import the routing logic from the routes folder
